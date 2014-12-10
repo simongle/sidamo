@@ -1,0 +1,66 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.639648,
+               "lng" : -73.967355
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "1f891b5b0edcfef09b85c91d0f12a6d3b23494eb",
+         "name" : "Qathra Cafe",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1365,
+               "html_attributions" : [ "\u003ca href=\"https://plus.google.com/104111246635874032234\"\u003eZAGAT\u003c/a\u003e" ],
+               "photo_reference" : "CpQBggAAAGBnZXZViXGy2TSdm-CAK4LgJuVX1UtejunSowKV_0zFgkCxsBEivfhDmRSQlLa71J1nu6DGIOK9nim8tgOG9h805uoM0--wNSZGim0ez_dVHHrbgt4BTSALt8Sy4Bkap8ImvcGJZ23fGWNUw8H6LyyQbGbUd5v5Tql-wy0tiQHkqmAxm_FCSFJXN4gBjYTMMxIQi-hWmvvXdnGbM4iM_ds_7RoUFH6T-h0gPmHIfxVEdS-ZIIK52g8",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJRzgAZTFbwokR0E6x6TV4Wkk",
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "CnRtAAAA9HDMSSmM2CJQ2ly1kvJu4Ly4mOinXFaLO8gHiOJuVGnd0JRPw6ZyzF-NDHhoZHCHNv7o8--cNa9TgRRpW2u61Hx_4eka3uufOGBnjzyjBUW5Mariaz5rbyaggPtNMTiAwE7gCMUaPfR8iyfUppXS9RIQ791KoBqSTauz3UbOD91oBhoUdu0gsGEUV85yzYbNZzVp8zKcf18",
+         "scope" : "GOOGLE",
+         "types" : [ "cafe", "restaurant", "food", "establishment" ],
+         "vicinity" : "1112 Cortelyou Rd, Brooklyn"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 40.648545,
+               "lng" : -73.978875
+            }
+         },
+         "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
+         "id" : "ba06cab67ac6556fa86aaaf9b538ef4a8e726f68",
+         "name" : "Steeplechase Coffee",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [],
+               "photo_reference" : "CnRnAAAASV2Aj_75LW3huM7qPC-Lx7o1T57yR_kRcuvzoPJOojiG-WjbJPGRcv1kVdA84b451bk1FdUCu5wN0FSTR2BHHLKF84bVveZUOb8rD-FPHXxMDsCNotM9p2ekknmCkRUmmhZwkawQVd1xv74D4j29uBIQctO2ZDL2AfNtwUJtfkvTthoUkHEyFsF0P_yyCQzpcxSaGqbJUrw",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJGfz28yZbwokRCwf1xKSyPKI",
+         "price_level" : 1,
+         "rating" : 4.1,
+         "reference" : "CoQBdgAAAFuFMbq-6DeyqhP0DHSBkqLAe45AGYYBpKjnqBgMc9i18l0Kgvpu21Uu_WNL0mxg9a56cVDvde4w4I0Xv1tKT7SELYzAL6_-gjCAI1ITmrDg1wNfPKLQ62zNrbwMNlk-P_v3WrUEtVWyjhALvPbCZuTMmMXaZjnPNTUrv-wv4s8ZEhBjamMcnbXxI1aEaFJ30dOyGhQA4uxoE5c_xfZfZXkQoSmkZmoURQ",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "cafe", "food", "establishment" ],
+         "vicinity" : "3013 Fort Hamilton Pkwy, Brooklyn"
+      }
+   ],
+   "status" : "OK"
+}

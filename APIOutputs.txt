@@ -1,0 +1,7 @@
+Nearby search result (keyword=qathra:)
+
+https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=40.7588,-73.9680&radius=20000&keyword=qathra&key=AIzaSyA_G7RErpJHSQCNKM9Se5VVf9sq7BMqGww
+
+Radar Search Result (keyword=qatrha)
+
+https://maps.googleapis.com/maps/api/place/radarsearch/json?location=40.7588,-73.9680&radius=20000&keyword=qathra&key=AIzaSyA_G7RErpJHSQCNKM9Se5VVf9sq7BMqGww
