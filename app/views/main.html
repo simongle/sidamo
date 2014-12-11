@@ -1,6 +1,8 @@
-<div class="container" ng-controller="MainCtrl as cafes">
+<div class="container" ng-controller="MainCtrl as list">
   <h2>My List of cafes</h2>
-  <p class="form-group">
-    <span>{{cafes}}</span>
-  </p>
+  <div ng-repeat="cafe in list.cafes">
+    <p>{{cafe.name}}</p></br>
+    <p>{{cafe.vicinity}}</p></br>
+    <!-- <h4>{{cafe.results.vicinity}}</h4> -->
+  </div>
 </div>

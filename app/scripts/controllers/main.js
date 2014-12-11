@@ -12,9 +12,9 @@
 	  .controller('MainCtrl', ['$http', function ($http) {
 	    var result = this;
 	    result.cafes = [ ];
-	    $http.get('../../data/cafes.json').success(function(data){
-	    	result.cafes = data;
+	    $http.get('../../data/TESTAPI.json').success(function(data){
+				result.cafes = data.results;
+				// console.log(data["results"]);
 	    });
 	  }]);
 })();
-
