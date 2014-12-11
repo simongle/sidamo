@@ -1,8 +1,8 @@
 <div class="container" ng-controller="MainCtrl as list">
-  <h2>My List of cafes</h2>
+  <h1>My List of cafes</h1>
   <div ng-repeat="cafe in list.cafes">
-    <p>{{cafe.name}}</p></br>
-    <p>{{cafe.vicinity}}</p></br>
+    <strong>{{cafe.name}}</strong></br>
+    <address>{{cafe.vicinity}}</p></address>
     <!-- <h4>{{cafe.results.vicinity}}</h4> -->
   </div>
 </div>
