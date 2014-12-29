@@ -12,7 +12,7 @@
 	  .controller('MainCtrl', ['$http', function ($http) {
 	    var result = this;
 	    result.cafes = [ ];
-	    $http.get('https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=40.7588,-73.9680&radius=20000&keyword=cafe&key=AIzaSyA_G7RErpJHSQCNKM9Se5VVf9sq7BMqGww').success(function(data){
+	    $http.get('https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=40.7588,-73.9680&radius=2000&keyword=cafe&key=AIzaSyA_G7RErpJHSQCNKM9Se5VVf9sq7BMqGww').success(function(data){
 				result.cafes = data.results;
 	    });
 	  }]);
