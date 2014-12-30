@@ -12,5 +12,6 @@ angular
   .module('sidamoApp', [
     'ngAnimate',
     'ngSanitize',
-    'ngTouch'
+    'ngTouch',
+    'geolocation'
   ]);

@@ -8,7 +8,7 @@
  * Controller of the sidamoApp
  */
 (function() {
-angular.module('sidamoApp', ['geolocation'])
+angular.module('sidamoApp')
   .controller('LocationCtrl', function ($scope, geolocation) {
     geolocation.getLocation().then(function(data){
       $scope.coords = {lat:data.coords.latitude, long:data.coords.longitude};
